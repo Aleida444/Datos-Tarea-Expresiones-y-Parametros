@@ -34,9 +34,12 @@ Puedes utilizar este proyecto para gestionar una tienda de ropa, realizar consul
 
 4. Ejecuta los scripts de Python proporcionados para realizar operaciones de eliminación, actualización e inserción en la base de datos.
 
-## Contribuciones
+## Compañeros de equipo
 
-Si deseas contribuir a este proyecto, siéntete libre de hacer un fork y enviar tus propias propuestas de mejora.
+Maria de Lourdes Rosas Araujo
+Portillo Aldana Ernesto Sebastián
+José Alejandro Nuñez Estel  
+Pacheco Pacheco Alia Aleida
 
 ## Licencia
 
